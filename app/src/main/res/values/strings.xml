@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">Zebronics Store</string>
+	<string name="computers_amp_laptops"><![CDATA[Computers & Laptops]]></string>
+	<string name="mobiles">Mobiles</string>
+	<string name="others">Others</string>
+	<string name="home_appliances">Home Appliances</string>
+</resources>

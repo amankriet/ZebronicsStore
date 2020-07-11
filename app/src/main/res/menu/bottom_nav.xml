@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_home"
+		android:orderInCategory="0"
+		android:title="@string/mobiles"
+		android:icon="@drawable/ic_mobile" />
+
+	<item android:id="@+id/menu_store"
+		android:orderInCategory="1"
+		android:title="@string/computers_amp_laptops"
+		android:icon="@drawable/ic_laptop" />
+
+	<item android:id="@+id/menu_upcoming"
+		android:orderInCategory="2"
+		android:title="@string/home_appliances"
+		android:icon="@drawable/ic_woofer" />
+
+	<item android:id="@+id/menu_others"
+		android:orderInCategory="3"
+		android:title="@string/others"
+		android:icon="@drawable/ic_store" />
+</menu>
